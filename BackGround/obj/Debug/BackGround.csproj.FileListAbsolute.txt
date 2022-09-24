@@ -1,0 +1,41 @@
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\bin\Debug\BackGround.exe.config
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\bin\Debug\BackGround.exe
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\bin\Debug\BackGround.pdb
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\bin\Debug\FontAwesome.Sharp.dll
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.csproj.AssemblyReference.cache
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.BackGround.resources
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.Properties.Resources.resources
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.csproj.GenerateResource.cache
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.csproj.CoreCompileInputs.cache
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.exe
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.pdb
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.ClientMusic.resources
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.Play.resources
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\bin\Debug\Interop.WMPLib.dll
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\bin\Debug\AxInterop.WMPLib.dll
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\Interop.WMPLib.dll
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\AxInterop.WMPLib.dll
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.csproj.ResolveComReference.cache
+C:\UIT 2021-2022\HOCKI2\LapTrinhMang\BackGround\BackGround\obj\Debug\BackGround.Player.resources
+D:\TRASH\DoAN\BackGround\BackGround\bin\Debug\BackGround.exe.config
+D:\TRASH\DoAN\BackGround\BackGround\bin\Debug\BackGround.exe
+D:\TRASH\DoAN\BackGround\BackGround\bin\Debug\BackGround.pdb
+D:\TRASH\DoAN\BackGround\BackGround\bin\Debug\FontAwesome.Sharp.dll
+D:\TRASH\DoAN\BackGround\BackGround\bin\Debug\Interop.WMPLib.dll
+D:\TRASH\DoAN\BackGround\BackGround\bin\Debug\AxInterop.WMPLib.dll
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.csproj.AssemblyReference.cache
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.csproj.SuggestedBindingRedirects.cache
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\Interop.WMPLib.dll
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\AxInterop.WMPLib.dll
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.csproj.ResolveComReference.cache
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.BackGround.resources
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.Play.resources
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.Player.resources
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.Properties.Resources.resources
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.csproj.GenerateResource.cache
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.csproj.CoreCompileInputs.cache
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.csproj.CopyComplete
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.exe
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.pdb
+D:\TRASH\DoAN\BackGround\BackGround\obj\Debug\BackGround.InforSinger.resources

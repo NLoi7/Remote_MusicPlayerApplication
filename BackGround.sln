@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackGround", "BackGround\BackGround.csproj", "{A3CE3214-AFA4-4FB3-A829-59C7D222FB6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{DAB4ECB7-05BA-41A1-BC01-82E4E5716FE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3CE3214-AFA4-4FB3-A829-59C7D222FB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CE3214-AFA4-4FB3-A829-59C7D222FB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CE3214-AFA4-4FB3-A829-59C7D222FB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CE3214-AFA4-4FB3-A829-59C7D222FB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB4ECB7-05BA-41A1-BC01-82E4E5716FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB4ECB7-05BA-41A1-BC01-82E4E5716FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB4ECB7-05BA-41A1-BC01-82E4E5716FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB4ECB7-05BA-41A1-BC01-82E4E5716FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {513513EF-EDEA-40FD-97FC-0C2E20B5FC9F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\TRASH\DoAN\BackGround\Server\bin\Debug\Server.exe.config
+D:\TRASH\DoAN\BackGround\Server\bin\Debug\Server.exe
+D:\TRASH\DoAN\BackGround\Server\bin\Debug\Server.pdb
+D:\TRASH\DoAN\BackGround\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\TRASH\DoAN\BackGround\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\TRASH\DoAN\BackGround\Server\obj\Debug\Server.Properties.Resources.resources
+D:\TRASH\DoAN\BackGround\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\TRASH\DoAN\BackGround\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\TRASH\DoAN\BackGround\Server\obj\Debug\Server.exe
+D:\TRASH\DoAN\BackGround\Server\obj\Debug\Server.pdb
+D:\TRASH\DoAN\BackGround\Server\obj\Debug\Server.Server.resources
