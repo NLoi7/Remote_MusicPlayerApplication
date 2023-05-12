@@ -1,4 +1,4 @@
-# MusicApp
+# Music Player Application
 ## Đây là đồ án đầu tiên của cuộc đời sinh viên tại ngôi trường đại học Công Nghệ Thông Tin <3
 ### Chuyên Ngành : An toàn thông tin
 ### Môn Đồ Án : Lập Trình Mạng Căn Bản
